@@ -10,10 +10,18 @@ I used the Woof app starter code as a hands-on project to learn Material3 and re
 
 Screenshots of the Woof App project progress
 --- 
+#### Light theme & Dark theme
 
 <p align="center">
 <img src="./res/Screenshot_20260303_202308.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> <img src="./res/Screenshot_20260303_202336.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Result too low"/>
 </p>
+
+#### Dynamic color theme 
+
+<p align="center">
+<img src="./res/Screenshot_2026-03-03-20-52-02-84_cbfa7cc08f058d15cda8cd897a93c2d0.jpg" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> <img src="./res/Screenshot_2026-03-03-20-52-28-16_cbfa7cc08f058d15cda8cd897a93c2d0.jpg" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Result too low"/>
+</p>
+
 
 Pre-requisites
 --------------
