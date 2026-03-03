@@ -1,6 +1,13 @@
 Woof App
 ==================================
 
+Screenshots
+--- 
+
+<p align="center">
+<img src="./res/Screenshot_20260303_200305.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> <img src="./res/Screenshot_20260303_200406.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Result too low"/>
+</p>
+
 The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user.
 
 Introduction
