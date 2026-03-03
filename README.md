@@ -28,6 +28,12 @@ Screenshots of the Woof App project progress
 <img src="./res/Screenshot_20260303_220809.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> <img src="./res/Screenshot_20260303_221100.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Result too low"/>
 </p>
 
+#### Typography
+
+<p align="center">
+<img src="./res/Screenshot_20260303_224021.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Guess result"/> <img src="./res/Screenshot_20260303_224052.png" width="35%" alt="Android Mobile App Screen - Number Guessing Game, Result too low"/>
+</p>
+
 
 Pre-requisites
 --------------
