@@ -3,11 +3,6 @@ Woof App
 
 The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user.
 
-Introduction
-------------
-
-I used the Woof app starter code as a hands-on project to learn Material3 and reinforce the Android Basics with Compose concepts I had studied.
-
 Screenshots of the Woof App project progress
 --- 
 #### Light theme & Dark theme
